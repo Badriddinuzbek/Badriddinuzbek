@@ -2,9 +2,9 @@
 
 <?php
 ob_start();
-define('API_KEY', '728997247:AAH8XAIe3u7WrSw3voCGLqCFPqzSUgMNypg');
+define('API_KEY', '1149987437:AAFDzOiMH-0ZvypCV2UfQpK8pOl93C17t4g');
 //tokenni yozing
-$admin = "342656235"; 
+$admin = "537924932"; 
 //ozizni id raqamizni yozing
 //《《《 @PHP_New 》》》\\
 //@PHP_New kanalimizga obuna bolinglar\\
